@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.box{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.box div{
+	widows:100px;
+	height:100px;
+}
